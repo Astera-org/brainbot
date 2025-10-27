@@ -4,9 +4,10 @@ Brainbot is a modular hub-and-spoke control stack for combining teleoperation, A
 
 This pipeline also includes the following repos:
 - Manipulation RL in IsaacLab https://github.com/brain-sim/manipulation-lab
-- IsaacSim Asset Package (coming soon)
+- AR App https://github.com/SMSL-Project/unity-so101
 - Customized LeRobot Fork https://github.com/bingogome/lerobot
 - Customized GR00T Fork https://github.com/bingogome/Isaac-GR00T
+- IsaacSim Asset Package (coming soon)
 - Datasets (coming soon)
 
 ## Architecture
